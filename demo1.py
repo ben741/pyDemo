@@ -6,3 +6,5 @@ Created on Tue May 14 14:54:30 2013
 """
 
 print "hello world"
+
+plot (arange(5), arange(5) **2)
