@@ -5,6 +5,5 @@ Created on Tue May 14 14:54:30 2013
 @author: Ben
 """
 
-print "hello world"
+print "hello Ben"
 
-plot (arange(5), arange(5) **2)
